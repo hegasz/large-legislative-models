@@ -1,0 +1,3 @@
+[submodule "meltingpot"]
+	path = meltingpot
+	url = https://github.com/hegasz/meltingpot.git
